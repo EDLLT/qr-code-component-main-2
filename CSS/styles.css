@@ -3,8 +3,11 @@ body {
   text-align: center;
 }
 
-p {
+h1, p {
   font-family: 'Outfit', sans-serif;
+}
+
+p {
   font-size: 15px;
 }
 
